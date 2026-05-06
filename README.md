@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I'm currently working on<br><br>Building scalable REST APIs and microservices using Spring Boot & React<br><br>👯 I'm looking to collaborate on<br><br>Open-source Java/Spring Boot projects, full-stack web apps, and backend system design<br><br>🤝 I'm looking for help with<br><br>Cloud deployments (AWS/GCP), DevOps pipelines, and system architecture patterns<br><br>🌱 I'm currently learning<br><br>Kubernetes, Docker advanced concepts, and React 19 features<br><br>💬 Ask me about<br><br>Java, Spring Boot, REST APIs, Hibernate/JPA, MySQL, React, and full-stack architecture<br><br>⚡ Fun fact<br><br>I can debug a NullPointerException faster than I can decide what to have for lunch! ☕
+Hi, I'm Gopi Boyi — a passionate Java Full-Stack Developer taking my first steps into the tech world. I thrive on problem-solving and have a genuine curiosity for how things work under the hood — from designing clean REST APIs to building responsive front-end interfaces.
+As a fresher, every project I build is a new lesson, and every challenge is an opportunity to level up. I believe in writing code that is not just functional, but meaningful and maintainable.
+On this GitHub, you will find projects that reflect my dedication to crafting efficient, scalable, and user-friendly web applications using Java, Spring Boot, React, and MySQL.
+I am always open to learning from the community, contributing to collaborative work, and growing alongside fellow developers who share the same passion for technology.
+If you are looking for someone who brings enthusiasm, commitment, and a hunger to grow — let us connect and build something great together!
 
 
 ## 🌐 Socials:
