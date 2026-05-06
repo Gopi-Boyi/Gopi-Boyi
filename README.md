@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hi, I'm Gopi Boyi — a passionate Java Full-Stack Developer taking my first steps into the tech world. I thrive on problem-solving and have a genuine curiosity for how things work under the hood — from designing clean REST APIs to building responsive front-end interfaces.
-As a fresher, every project I build is a new lesson, and every challenge is an opportunity to level up. I believe in writing code that is not just functional, but meaningful and maintainable.
-On this GitHub, you will find projects that reflect my dedication to crafting efficient, scalable, and user-friendly web applications using Java, Spring Boot, React, and MySQL.
-I am always open to learning from the community, contributing to collaborative work, and growing alongside fellow developers who share the same passion for technology.
+Hi, I'm Gopi Boyi — a passionate Java Full-Stack Developer taking my first steps into the tech world. I thrive on problem-solving and have a genuine curiosity for how things work under the hood — from designing clean REST APIs to building responsive front-end interfaces.<br>
+As a fresher, every project I build is a new lesson, and every challenge is an opportunity to level up. I believe in writing code that is not just functional, but meaningful and maintainable.<br>
+On this GitHub, you will find projects that reflect my dedication to crafting efficient, scalable, and user-friendly web applications using Java, Spring Boot, React, and MySQL.<br>
+I am always open to learning from the community, contributing to collaborative work, and growing alongside fellow developers who share the same passion for technology.<br>
 If you are looking for someone who brings enthusiasm, commitment, and a hunger to grow — let us connect and build something great together!
 
 
