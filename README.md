@@ -63,11 +63,9 @@ On this GitHub you'll find full-stack projects built end-to-end — from databas
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Gopi-Boyi&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Gopi's GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gopi-Boyi&theme=gruvbox&hide_border=true" alt="Gopi's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gopi-Boyi&theme=gruvbox&hide_border=true" alt="Gopi's Streak Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Gopi-Boyi&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
